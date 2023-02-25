@@ -6,14 +6,15 @@ This Order summary component is one of the easy challenges, intended for newbie 
 
 Made in accordance with given references with a few media queries to make it responsive for all devices.
 
-## Built with
+## Checkout the live demo
+[QR code component](https://peac-h.github.io/3_Order-Summary-Component/)
 
-- HTML
-- CSS
-- & LOVE
+## Built with
+- html
+- css
+- & love
 
 ## Author
-
-- Github - https://github.com/Peac-h
-- LinkedIn - https://www.linkedin.com/in/tamta-lomidze-b336b9266/
-- Twitter - https://twitter.com/p6eac_h
+- [Github](https://github.com/Peac-h)
+- [LinkedIn](https://www.linkedin.com/in/tamta-lomidze-b336b9266/)
+- [Twitter](https://twitter.com/p6eac_h)

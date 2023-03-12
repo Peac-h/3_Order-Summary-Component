@@ -9,6 +9,8 @@ Made in accordance with given references with a few media queries to make it res
 ## Checkout the live demo
 [Order summary component](https://peac-h.github.io/3_Order-Summary-Component/)
 
+![Order summary component](https://raw.githubusercontent.com/Peac-h/3_Order-Summary-Component/main/Screenshot.png)
+
 ## Built with
 - html
 - css
